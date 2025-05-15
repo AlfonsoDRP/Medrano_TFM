@@ -102,6 +102,7 @@ Azul fosforo = #38c3fa
 }
 .s2-textos p{
     font-size: 1.25em;
+    text-align: center;
 }
 .s2-contenido{
     width: 33.33%;
